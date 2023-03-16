@@ -8,10 +8,10 @@
 
 <img src="project-image.jpg" alt=" ">
 
-## 🚀 Introduction
+## :speech_balloon: Introduction
 
 > The VBA-SAP-Scripting repository contains programming codes in the VBA language and integrating with SAP ERP for the most diverse system transactions. Transactions are intended for operations in the supply sector in a multinational company.
 
-## :speech_balloon: Objectives
+## :rocket: Objectives
 
 > Macros were developed for the most diverse operations to automate the process and facilitate the workflow, in some cases leading to a reduction in operating times by more than 90%. This repository was created with the objective of safeguarding the acquired knowledge, as well as creating a professional portfolio.
