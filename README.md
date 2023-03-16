@@ -4,7 +4,7 @@
 
 ![GitHub repo size](https://img.shields.io/badge/REPO%20SIZE-7200%20kb-green)
 ![GitHub language count](https://img.shields.io/badge/LANGUAGES-2-green)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/badge/ISSUES-NOT%20FOUND-yellowgreen)
 
 <img src="project-image.jpg" alt=" ">
 
